@@ -1,0 +1,63 @@
+
+[
+    {
+      "id": 1,
+      "name": "Bears",
+      "image": "./assets/images/bears.png",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "Bengals",
+      "image": "./assets/images/bengals.png",
+      "count": 0
+    },
+        {
+      "id": 3,
+      "name": "Bills",
+      "image": "./assets/images/bills.png",
+      "count": 0
+    },
+        {
+      "id": 4,
+      "name": "Broncos",
+      "image": "./assets/images/broncos.png",
+      "count": 0
+    },
+        {
+      "id": 5,
+      "name": "Browns",
+      "image": "./assets/images/browns.png",
+      "count": 0
+    },
+        {
+      "id": 6,
+      "name": "Cardinals",
+      "image": "./assets/images/cardinals.png",
+      "count": 0
+    },
+        {
+      "id": 7,
+      "name": "Chiefs",
+      "image": "./assets/images/chiefs.png",
+      "count": 0
+    },
+        {
+      "id": 8,
+      "name": "Colts",
+      "image": "./assets/images/colts.png",
+      "count": 0
+    },
+        {
+      "id": 9,
+      "name": "Cowboys",
+      "image": "./assets/images/cowboys.png",
+      "count": 0
+    },
+        {
+      "id": 10,
+      "name": "Falcons",
+      "image": "./assets/images/falcons.png",
+      "count": 0
+    }
+]
