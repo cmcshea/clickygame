@@ -3,61 +3,61 @@
     {
       "id": 1,
       "name": "Bears",
-      "image": "./assets/images/bears.png",
+      "image": "http://content.sportslogos.net/logos/7/169/thumbs/364.gif",
       "count": 0
     },
     {
       "id": 2,
       "name": "Bengals",
-      "image": "./assets/images/bengals.png",
+      "image": "http://content.sportslogos.net/logos/7/154/thumbs/403.gif",
       "count": 0
     },
         {
       "id": 3,
       "name": "Bills",
-      "image": "./assets/images/bills.png",
+      "image": "http://content.sportslogos.net/logos/7/149/thumbs/n0fd1z6xmhigb0eej3323ebwq.gif",
       "count": 0
     },
         {
       "id": 4,
       "name": "Broncos",
-      "image": "./assets/images/broncos.png",
+      "image": "http://content.sportslogos.net/logos/7/161/thumbs/9ebzja2zfeigaziee8y605aqp.gif",
       "count": 0
     },
         {
       "id": 5,
       "name": "Browns",
-      "image": "./assets/images/browns.png",
+      "image": "http://content.sportslogos.net/logos/7/155/thumbs/15578552015.gif",
       "count": 0
     },
         {
       "id": 6,
       "name": "Cardinals",
-      "image": "./assets/images/cardinals.png",
+      "image": "http://content.sportslogos.net/logos/7/177/thumbs/kwth8f1cfa2sch5xhjjfaof90.gif",
       "count": 0
     },
         {
       "id": 7,
       "name": "Chiefs",
-      "image": "./assets/images/chiefs.png",
+      "image": "http://content.sportslogos.net/logos/7/162/thumbs/857.gif",
       "count": 0
     },
         {
       "id": 8,
       "name": "Colts",
-      "image": "./assets/images/colts.png",
+      "image": "http://content.sportslogos.net/logos/7/158/thumbs/593.gif",
       "count": 0
     },
         {
       "id": 9,
       "name": "Cowboys",
-      "image": "./assets/images/cowboys.png",
+      "image": "http://content.sportslogos.net/logos/7/165/thumbs/406.gif",
       "count": 0
     },
         {
       "id": 10,
       "name": "Falcons",
-      "image": "./assets/images/falcons.png",
+      "image": "http://content.sportslogos.net/logos/7/173/thumbs/299.gif",
       "count": 0
     }
 ]

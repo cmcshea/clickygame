@@ -1,15 +1,16 @@
 import React from "react";
 import "./style.css";
 
-const Card = (arr) => {
+const Card = (props) => {
+    console.log(props)
     return (
         <div>
-        {arr.map((item) => {
+        {props.cardList.map((item) => {
         return (
-            <div id={item.id} className="card" style="width: 18rem;">
-                <img src={item.image} className="card-img-top" alt="..." />
-                <div className="card-body">
-                    <p className="card-text">{item.name}</p>
+            <div id={item.id} onClick={(e)=> props.scoreHandler()}>
+                <img src={item.image} alt="..." />
+                <div>
+                    <p>{item.name}</p>
                 </div>
             </div>
         )
